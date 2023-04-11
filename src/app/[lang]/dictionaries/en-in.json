@@ -1,0 +1,15 @@
+{
+    "form": {
+        "labels": {
+            "email": "Email address",
+            "phone": "Phone number"
+        },
+        "helpers": {
+            "email": "We'll never share your email.",
+            "phone": "We'll never share your phone."
+        },
+        "buttons": {
+            "submit": "Submit"
+        }
+    }
+}
